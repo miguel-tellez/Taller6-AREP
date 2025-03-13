@@ -29,12 +29,12 @@ Before running the project, make sure you have the following installed:
 
 1. **Clone this repository:**
    ```sh
-   git clone https://github.com/miguel-tellez/aller6-AREP.git
+   git clone https://github.com/miguel-tellez/Taller6-AREP.git
    ```
 
 2. **Navigate to the workshop directory:**
    ```sh
-   cd AREP_Taller1
+   cd Taller6-AREP
    ```
 
 2. **By running the following command create the project:**
